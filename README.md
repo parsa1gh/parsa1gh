@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @parsa
-- 👀 I’m interested in c# js and python
-- 🌱 I’m currently learning js 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in c++ IOT and node.js
+- 🌱 I’m currently learning node.js 
+
 
 <!---
 parsa1gh/parsa1gh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
